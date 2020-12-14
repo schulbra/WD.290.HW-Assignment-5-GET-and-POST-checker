@@ -1,0 +1,17 @@
+﻿html {
+    background: #5beae5;
+}
+
+body {
+    width: 100%;
+    max-width: 1000px;
+    min-height: 1000px;
+    padding: 14px;
+    margin: 1px auto;
+    background-color: rgb(249, 253, 81);
+    border: solid 3px;
+}
+
+img {
+    float: right;
+}
